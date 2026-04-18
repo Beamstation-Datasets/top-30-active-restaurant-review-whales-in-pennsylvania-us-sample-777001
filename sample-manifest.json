@@ -1,12 +1,12 @@
 {
-  "export_job_id": "cea9e232-3bad-4904-9eeb-d804d70b9f3a",
+  "export_job_id": "ab2dc4db-da0a-4d3e-8df5-cd7ca0b239d9",
   "id_short": 777001,
-  "published_at": "2026-04-13T07:43:46Z",
+  "published_at": "2026-04-18T19:52:34Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-pennsylvania-us-sample-777001",
   "sample_asset_name": "beamstation_777001_restaurants-us-pa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/777001/beamstation_777001_restaurants-us-pa_SAMPLE_DIST.csv",
-  "sample_records": 10,
-  "sample_sha256": "e5148b98ac1554a832efbab0ec4a445777f5975ee9f6a04d1b4d645c0cc92832",
-  "sample_size_bytes": 56504,
-  "total_records": 958
+  "sample_records": 150,
+  "sample_sha256": "1f60f9893f6b1cebd83ac839d38fd290bdb913db67fa85288f42f744a6491a9d",
+  "sample_size_bytes": 574185,
+  "total_records": 1504
 }
